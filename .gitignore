@@ -1,0 +1,16 @@
+# Python venv
+env1/
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Env secrets
+.env
+.env.*
+
+# Next.js / Node
+node_modules/
+.next/
